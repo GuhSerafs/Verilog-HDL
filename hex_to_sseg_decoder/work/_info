@@ -1,0 +1,52 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/Quartus/intelFPGA_lite/19.1/modelsim/hex_to_sseg_decoder
+vhex_to_sseg
+Z1 !s110 1585757749
+!i10b 1
+!s100 SnUXVkm:VX0gdn71Ag]C<1
+I7W9nB7U]QP:T;6midg7D10
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1585757515
+8D:\Quartus\intelFPGA_lite\19.1\modelsim\hex_to_sseg_decoder\hex_to_sseg.v
+FD:\Quartus\intelFPGA_lite\19.1\modelsim\hex_to_sseg_decoder\hex_to_sseg.v
+L0 2
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1585757749.000000
+!s107 D:\Quartus\intelFPGA_lite\19.1\modelsim\hex_to_sseg_decoder\hex_to_sseg.v|
+!s90 -reportprogress|300|-work|work|D:\Quartus\intelFPGA_lite\19.1\modelsim\hex_to_sseg_decoder\hex_to_sseg.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vsseg_decoder_testbench
+R1
+!i10b 1
+!s100 <:WnLC;E61CJ?1]b>V?:02
+IAmn_gLg<ic_]<9jdmzO`92
+R2
+R0
+w1585757742
+8D:\Quartus\intelFPGA_lite\19.1\modelsim\hex_to_sseg_decoder\hex_to_sseg_test.v
+FD:\Quartus\intelFPGA_lite\19.1\modelsim\hex_to_sseg_decoder\hex_to_sseg_test.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:\Quartus\intelFPGA_lite\19.1\modelsim\hex_to_sseg_decoder\hex_to_sseg_test.v|
+!s90 -reportprogress|300|-work|work|D:\Quartus\intelFPGA_lite\19.1\modelsim\hex_to_sseg_decoder\hex_to_sseg_test.v|
+!i113 1
+R5
+R6

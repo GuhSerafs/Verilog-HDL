@@ -1,0 +1,101 @@
+# Compile of simple_register.v failed with 2 errors.
+# Compile of simple_register.v was successful.
+# Compile of simple_register_tb.v failed with 1 errors.
+# Compile of simple_register_tb.v was successful.
+# Compile of simple_register_tb.v failed with 2 errors.
+# Compile of simple_register.v was successful.
+# Compile of simple_register_tb.v failed with 2 errors.
+# 2 compiles, 1 failed with 2 errors.
+# Compile of simple_register_tb.v failed with 2 errors.
+# Compile of simple_register_tb.v was successful.
+vsim work.simple_reg_tb
+# vsim work.simple_reg_tb 
+# Start time: 23:26:25 on Apr 17,2020
+# Loading work.simple_reg_tb
+# Loading work.register
+add wave -position insertpoint sim:/simple_reg_tb/*
+run -all
+# ** Note: $stop    : D:/Documentos/VerilogWorkspace/register_file/simple_register_tb.v(28)
+#    Time: 625 ps  Iteration: 0  Instance: /simple_reg_tb
+# Break in Module simple_reg_tb at D:/Documentos/VerilogWorkspace/register_file/simple_register_tb.v line 28
+quit -sim
+# End time: 23:29:10 on Apr 17,2020, Elapsed time: 0:02:45
+# Errors: 0, Warnings: 0
+# Compile of register_file.v failed with 1 errors.
+# Compile of register_file.v failed with 1 errors.
+# Compile of simple_register.v was successful.
+# Compile of simple_register_tb.v was successful.
+# Compile of register_file.v failed with 1 errors.
+# 3 compiles, 1 failed with 1 error.
+# Compile of register_file.v failed with 1 errors.
+# Compile of register_file.v failed with 1 errors.
+# Compile of register_file.v was successful.
+# Compile of reg_file_fp.v failed with 1 errors.
+# Compile of reg_file_fp.v was successful.
+# Compile of reg_file_fp.v was successful.
+# Compile of simple_register.v was successful.
+# Compile of simple_register_tb.v was successful.
+# Compile of register_file.v was successful.
+# Compile of reg_file_fp.v was successful.
+vsim work.reg_file_fp
+# vsim work.reg_file_fp 
+# Start time: 23:59:21 on Apr 17,2020
+# Loading work.reg_file_fp
+# Loading work.register_file
+# ** Warning: (vsim-3015) D:/Documentos/VerilogWorkspace/register_file/reg_file_fp.v(13): [PCDPC] - Port size (2) does not match connection size (4) for port 'w_addr'. The port definition is at: D:/Documentos/VerilogWorkspace/register_file/register_file.v(4).
+#    Time: 0 ps  Iteration: 0  Instance: /reg_file_fp/tested_module File: D:/Documentos/VerilogWorkspace/register_file/register_file.v
+# ** Warning: (vsim-3015) D:/Documentos/VerilogWorkspace/register_file/reg_file_fp.v(13): [PCDPC] - Port size (2) does not match connection size (4) for port 'r_addr'. The port definition is at: D:/Documentos/VerilogWorkspace/register_file/register_file.v(4).
+#    Time: 0 ps  Iteration: 0  Instance: /reg_file_fp/tested_module File: D:/Documentos/VerilogWorkspace/register_file/register_file.v
+add wave -position insertpoint sim:/reg_file_fp/*
+run -all
+# ** Note: $stop    : D:/Documentos/VerilogWorkspace/register_file/reg_file_fp.v(35)
+#    Time: 625 ps  Iteration: 0  Instance: /reg_file_fp
+# Break in Module reg_file_fp at D:/Documentos/VerilogWorkspace/register_file/reg_file_fp.v line 35
+quit -sim
+# End time: 00:02:29 on Apr 18,2020, Elapsed time: 0:03:08
+# Errors: 0, Warnings: 2
+# Compile of simple_register.v was successful.
+# Compile of simple_register_tb.v was successful.
+# Compile of register_file.v was successful.
+# Compile of reg_file_fp.v was successful.
+# 4 compiles, 0 failed with no errors.
+vsim work.reg_file_fp
+# vsim work.reg_file_fp 
+# Start time: 00:02:49 on Apr 18,2020
+# Loading work.reg_file_fp
+# Loading work.register_file
+# ** Warning: (vsim-3015) D:/Documentos/VerilogWorkspace/register_file/reg_file_fp.v(13): [PCDPC] - Port size (2) does not match connection size (4) for port 'w_addr'. The port definition is at: D:/Documentos/VerilogWorkspace/register_file/register_file.v(4).
+#    Time: 0 ps  Iteration: 0  Instance: /reg_file_fp/tested_module File: D:/Documentos/VerilogWorkspace/register_file/register_file.v
+# ** Warning: (vsim-3015) D:/Documentos/VerilogWorkspace/register_file/reg_file_fp.v(13): [PCDPC] - Port size (2) does not match connection size (4) for port 'r_addr'. The port definition is at: D:/Documentos/VerilogWorkspace/register_file/register_file.v(4).
+#    Time: 0 ps  Iteration: 0  Instance: /reg_file_fp/tested_module File: D:/Documentos/VerilogWorkspace/register_file/register_file.v
+add wave -position insertpoint sim:/reg_file_fp/*
+run -all
+# ** Note: $stop    : D:/Documentos/VerilogWorkspace/register_file/reg_file_fp.v(35)
+#    Time: 625 ps  Iteration: 0  Instance: /reg_file_fp
+# Break in Module reg_file_fp at D:/Documentos/VerilogWorkspace/register_file/reg_file_fp.v line 35
+quit -sim
+# End time: 00:04:17 on Apr 18,2020, Elapsed time: 0:01:28
+# Errors: 0, Warnings: 2
+# Compile of simple_register.v was successful.
+# Compile of simple_register_tb.v was successful.
+# Compile of register_file.v was successful.
+# Compile of reg_file_fp.v was successful.
+# 4 compiles, 0 failed with no errors.
+# Compile of simple_register.v was successful.
+# Compile of simple_register_tb.v was successful.
+# Compile of register_file.v was successful.
+# Compile of reg_file_fp.v was successful.
+# 4 compiles, 0 failed with no errors.
+vsim work.reg_file_fp
+# vsim work.reg_file_fp 
+# Start time: 00:06:02 on Apr 18,2020
+# Loading work.reg_file_fp
+# Loading work.register_file
+add wave -position insertpoint sim:/reg_file_fp/*
+run -all
+# ** Note: $stop    : D:/Documentos/VerilogWorkspace/register_file/reg_file_fp.v(35)
+#    Time: 625 ps  Iteration: 0  Instance: /reg_file_fp
+# Break in Module reg_file_fp at D:/Documentos/VerilogWorkspace/register_file/reg_file_fp.v line 35
+quit -sim
+# End time: 00:58:44 on Apr 18,2020, Elapsed time: 0:52:42
+# Errors: 0, Warnings: 0

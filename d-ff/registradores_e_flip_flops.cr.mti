@@ -1,0 +1,67 @@
+D:/Documentos/VerilogWorkspace/d-ff/simple_d_ff_tb.v {1 {vlog -work work {D:\Documentos\VerilogWorkspace\d-ff\simple_d_ff_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+Start time: 22:41:32 on Apr 17,2020
+vlog -reportprogress 300 -work work D:\Documentos\VerilogWorkspace\d-ff\simple_d_ff_tb.v 
+-- Compiling module simple_dff_tb
+
+Top level modules:
+	simple_dff_tb
+End time: 22:41:32 on Apr 17,2020, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} D:/Documentos/VerilogWorkspace/d-ff/d_ff.v {1 {vlog -work work {D:\Documentos\VerilogWorkspace\d-ff\d_ff.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+Start time: 22:41:32 on Apr 17,2020
+vlog -reportprogress 300 -work work D:\Documentos\VerilogWorkspace\d-ff\d_ff.v 
+-- Compiling module d_ff
+
+Top level modules:
+	d_ff
+End time: 22:41:32 on Apr 17,2020, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} D:/Documentos/VerilogWorkspace/d-ff/d_ff_rst.v {1 {vlog -work work {D:\Documentos\VerilogWorkspace\d-ff\d_ff_rst.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+Start time: 22:41:32 on Apr 17,2020
+vlog -reportprogress 300 -work work D:\Documentos\VerilogWorkspace\d-ff\d_ff_rst.v 
+-- Compiling module d_ff_rst
+
+Top level modules:
+	d_ff_rst
+End time: 22:41:32 on Apr 17,2020, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} D:/Documentos/VerilogWorkspace/d-ff/d_flipflop.v {1 {vlog -work work {D:\Documentos\VerilogWorkspace\d-ff\d_flipflop.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+Start time: 22:41:32 on Apr 17,2020
+vlog -reportprogress 300 -work work D:\Documentos\VerilogWorkspace\d-ff\d_flipflop.v 
+-- Compiling module simple_d_ff
+
+Top level modules:
+	simple_d_ff
+End time: 22:41:32 on Apr 17,2020, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} D:/Documentos/VerilogWorkspace/d-ff/d_ff_tb.v {1 {vlog -work work {D:\Documentos\VerilogWorkspace\d-ff\d_ff_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+Start time: 22:41:32 on Apr 17,2020
+vlog -reportprogress 300 -work work D:\Documentos\VerilogWorkspace\d-ff\d_ff_tb.v 
+-- Compiling module d_ff_tb
+
+Top level modules:
+	d_ff_tb
+End time: 22:41:32 on Apr 17,2020, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} D:/Documentos/VerilogWorkspace/d-ff/d_ff_rst_tb.v {1 {vlog -work work {D:\Documentos\VerilogWorkspace\d-ff\d_ff_rst_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+Start time: 22:41:32 on Apr 17,2020
+vlog -reportprogress 300 -work work D:\Documentos\VerilogWorkspace\d-ff\d_ff_rst_tb.v 
+-- Compiling module d_ff_rst_tb
+
+Top level modules:
+	d_ff_rst_tb
+End time: 22:41:32 on Apr 17,2020, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}}

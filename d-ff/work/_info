@@ -1,0 +1,136 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/Documentos/VerilogWorkspace/d-ff
+vd_ff
+Z1 !s110 1587174092
+!i10b 1
+!s100 [;C=QXQ]lGP9i5j^<O48R2
+ISO98O@Jzd<k`kkDdmR<9G3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1587173779
+8D:\Documentos\VerilogWorkspace\d-ff\d_ff.v
+FD:\Documentos\VerilogWorkspace\d-ff\d_ff.v
+L0 3
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1587174092.000000
+!s107 D:\Documentos\VerilogWorkspace\d-ff\d_ff.v|
+!s90 -reportprogress|300|-work|work|D:\Documentos\VerilogWorkspace\d-ff\d_ff.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vd_ff_rst
+R1
+!i10b 1
+!s100 iP>ZAH=B_lInoD]1o[ob71
+IWDH22RiAFEe0`DQ@Cb>A<3
+R2
+R0
+w1587172833
+8D:\Documentos\VerilogWorkspace\d-ff\d_ff_rst.v
+FD:\Documentos\VerilogWorkspace\d-ff\d_ff_rst.v
+L0 7
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:\Documentos\VerilogWorkspace\d-ff\d_ff_rst.v|
+!s90 -reportprogress|300|-work|work|D:\Documentos\VerilogWorkspace\d-ff\d_ff_rst.v|
+!i113 1
+R5
+R6
+vd_ff_rst_tb
+R1
+!i10b 1
+!s100 c<gK<dW8I>6fDAQ;]?L:E3
+ISIciEeU7@b;:i7T?X^8Ll1
+R2
+R0
+w1587173485
+8D:\Documentos\VerilogWorkspace\d-ff\d_ff_rst_tb.v
+FD:\Documentos\VerilogWorkspace\d-ff\d_ff_rst_tb.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:\Documentos\VerilogWorkspace\d-ff\d_ff_rst_tb.v|
+!s90 -reportprogress|300|-work|work|D:\Documentos\VerilogWorkspace\d-ff\d_ff_rst_tb.v|
+!i113 1
+R5
+R6
+vd_ff_tb
+R1
+!i10b 1
+!s100 i?k3IV?lb[j;52zYVK@f42
+IYeEW]QXHFPZAInRaal4a=0
+R2
+R0
+w1587174083
+8D:\Documentos\VerilogWorkspace\d-ff\d_ff_tb.v
+FD:\Documentos\VerilogWorkspace\d-ff\d_ff_tb.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:\Documentos\VerilogWorkspace\d-ff\d_ff_tb.v|
+!s90 -reportprogress|300|-work|work|D:\Documentos\VerilogWorkspace\d-ff\d_ff_tb.v|
+!i113 1
+R5
+R6
+vsimple_d_ff
+R1
+!i10b 1
+!s100 b8_23hlXD86l=XcI2IYBe2
+Iglml>C5kPXl`hXhfSD01A3
+R2
+R0
+w1587172204
+8D:\Documentos\VerilogWorkspace\d-ff\d_flipflop.v
+FD:\Documentos\VerilogWorkspace\d-ff\d_flipflop.v
+L0 7
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:\Documentos\VerilogWorkspace\d-ff\d_flipflop.v|
+!s90 -reportprogress|300|-work|work|D:\Documentos\VerilogWorkspace\d-ff\d_flipflop.v|
+!i113 1
+R5
+R6
+vsimple_dff_tb
+R1
+!i10b 1
+!s100 ?f[YDP8GAaf]_Ji@bAeeP2
+Iib4Q3zSBoE<:^Ldl9k?XZ0
+R2
+R0
+w1587172527
+8D:\Documentos\VerilogWorkspace\d-ff\simple_d_ff_tb.v
+FD:\Documentos\VerilogWorkspace\d-ff\simple_d_ff_tb.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:\Documentos\VerilogWorkspace\d-ff\simple_d_ff_tb.v|
+!s90 -reportprogress|300|-work|work|D:\Documentos\VerilogWorkspace\d-ff\simple_d_ff_tb.v|
+!i113 1
+R5
+R6
